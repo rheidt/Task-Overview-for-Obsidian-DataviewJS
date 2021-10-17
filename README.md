@@ -39,7 +39,6 @@ upcomingColor: purple
 undatedColor: 
 completedColor: green
 archivedColor: 
----
 ```
 
 <img width="306" alt="Bildschirmfoto 2021-10-17 um 21 17 36" src="https://user-images.githubusercontent.com/59178587/137641701-bcc06f05-a826-475d-8fdf-e20cec02cd4a.png">
