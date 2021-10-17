@@ -1,6 +1,6 @@
 # Task Overview for Obsidian DataviewJS
 
-Here is my complex task overview for Obsidian with DataviewJS. In the metadata various parameters can be changed and so the appearance of the overview can be customized. Also the stored regex parameters for the recognition of date, time and archived tasks can be customized as desired. This template is currently designed for use with the Kanban plugin for Obsidian, but can also be adapted for all other task management methods as needed.
+Here is my costumizable task overview for Obsidian with DataviewJS. In the metadata various parameters can be changed and so the appearance of the overview can be customized. Also the stored regex parameters for the recognition of date, time and archived tasks can be customized as desired. This template is currently designed for use with the Kanban plugin for Obsidian, but can also be adapted for all other task management methods as needed.
 
 Like a Kanban, each task is displayed as a card and can be customized via metadata.
 
